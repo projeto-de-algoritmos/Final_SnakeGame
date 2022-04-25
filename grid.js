@@ -12,6 +12,7 @@ function No(parent, point, children, g_score, h_score) {
     this.f_score = g_score + h_score;
 }
 
+
 //algumas variaveis 
 var config = new Object();
 var stats = new Object();

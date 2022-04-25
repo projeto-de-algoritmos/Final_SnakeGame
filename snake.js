@@ -11,6 +11,7 @@ config.snake_length = 5;
 config.search = 'BFS';
 config.runTimeout = 0;
 
+
 function init() {
     ctx = document.getElementById('canvas').getContext("2d");
     //diga ao worker para se estabelecer
