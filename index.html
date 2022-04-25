@@ -1,0 +1,28 @@
+<head>
+    <title>Simple Snake Game</title>
+    <meta name=viewport content="width=device-width, initial-scale=1">
+
+    <nav>
+        <a style="margin-left: 40%;"><strong> Snake-Game baseado no algoritmo BFS </strong></a>
+    </nav>
+    <script src="snake.js"></script>
+
+</head>
+
+
+<body onload="init();">
+    <input type="button" class="btn btn-success" style="width: 7.5%" value="Start" onclick="start();">&nbsp;&nbsp;
+    <input type="button" class="btn btn-danger" style="width: 7.5%" value="Stop" onclick="stop();">&nbsp;&nbsp;
+    <input type="button" class="btn btn-success" style="width: 8%" value="Resume" onclick="resume();">&nbsp;&nbsp;<br><br>
+    <select id="search" style="width: 33.2%" onchange="change_search();">
+    <option>BFS</option>
+    <option>Djikstra</option>
+    </select>
+    
+    <div>
+        <canvas id="canvas" width="500" height="500" style="margin-left: 30%;"></canvas>
+    </div>
+
+</body>
+
+</html>
