@@ -21,8 +21,8 @@ Esta segunda imagem, demostra o jogo rodando com o algoritmo Djikstra, em que vo
 Nesta terceira imagem, demostra o que acontece quando você volta para o algoritmo de BFS.
 
 ## Apresentação do projeto
-#### 1- [Video de apresentação do projeto via youtube](https://youtu.be/S9DadTOEXdA)
-#### 2- [Video de apresentação do projeto via drive](https://drive.google.com/file/d/1hPXEWP5JQjfa-4PP6-UZ3gBIyRWQR6ea/view?usp=sharing)
+#### 1- [Video de apresentação do projeto via youtube](https://youtu.be/sKQFULC2HAo)
+#### 2- [Video de apresentação do projeto via drive](https://drive.google.com/file/d/1pB8jhfYFh7Ikbt9AIueMXiyzvLZTYZwL/view?usp=sharing)
 
 
 ## Instalação 
